@@ -3,8 +3,8 @@ Prueba técnica de Naren David Pertuz Vides en PHP para la empresa SUPLOS
 
 REQUISITOS:
 
-Versión de PHP: 8.0.28
-Versión base de datos: MySQL
+1. Versión de PHP: 8.0.28
+2. Versión base de datos: MySQL
 
 INSTRUCCIONES DE COMPILACIÓN:
 
